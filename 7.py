@@ -1,0 +1,1 @@
+print('Name\t\tAge\tCountry\t\tCity\nAsabeneh\t250\tFinlan\t\tHelsinki')
